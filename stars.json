@@ -1,25 +1,25 @@
 [
   {
     "full_name": "confluentinc/cp-all-in-one",
-    "stargazers_count": 551,
+    "stargazers_count": 552,
     "open_issues_count": 29,
-    "forks_count": 536
+    "forks_count": 539
   },
   {
     "full_name": "prometheus-operator/prometheus-operator",
-    "stargazers_count": 7400,
-    "open_issues_count": 285,
-    "forks_count": 3262
+    "stargazers_count": 7405,
+    "open_issues_count": 286,
+    "forks_count": 3269
   },
   {
     "full_name": "kubeshop/botkube",
-    "stargazers_count": 1433,
-    "open_issues_count": 97,
+    "stargazers_count": 1437,
+    "open_issues_count": 101,
     "forks_count": 241
   },
   {
     "full_name": "emojicode/emojicode",
-    "stargazers_count": 2935,
+    "stargazers_count": 2938,
     "open_issues_count": 13,
     "forks_count": 167
   },
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "learning-zone/nodejs-interview-questions",
-    "stargazers_count": 2188,
+    "stargazers_count": 2198,
     "open_issues_count": 0,
-    "forks_count": 767
+    "forks_count": 770
   },
   {
     "full_name": "Shahriar220/GithubUserFinder",
@@ -67,79 +67,79 @@
   },
   {
     "full_name": "InterviewReady/system-design-resources",
-    "stargazers_count": 8131,
+    "stargazers_count": 8341,
     "open_issues_count": 0,
-    "forks_count": 916
+    "forks_count": 932
   },
   {
     "full_name": "digitalocean/nginxconfig.io",
-    "stargazers_count": 22789,
+    "stargazers_count": 22822,
     "open_issues_count": 36,
-    "forks_count": 1601
+    "forks_count": 1603
   },
   {
     "full_name": "me-shaon/bangla-programming-resources",
-    "stargazers_count": 1210,
+    "stargazers_count": 1215,
     "open_issues_count": 6,
-    "forks_count": 1162
+    "forks_count": 1166
   },
   {
     "full_name": "ombharatiya/FAANG-Coding-Interview-Questions",
-    "stargazers_count": 1116,
+    "stargazers_count": 1132,
     "open_issues_count": 11,
-    "forks_count": 425
+    "forks_count": 426
   },
   {
     "full_name": "airbnb/javascript",
-    "stargazers_count": 127366,
-    "open_issues_count": 147,
-    "forks_count": 24298
+    "stargazers_count": 127456,
+    "open_issues_count": 146,
+    "forks_count": 24313
   },
   {
     "full_name": "thoughtbot/expandable-recycler-view",
-    "stargazers_count": 2045,
+    "stargazers_count": 2046,
     "open_issues_count": 138,
     "forks_count": 388
   },
   {
     "full_name": "vivasoft-ltd/javascript-bootcamp",
-    "stargazers_count": 171,
+    "stargazers_count": 172,
     "open_issues_count": 0,
     "forks_count": 70
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 234133,
+    "stargazers_count": 234666,
     "open_issues_count": 46,
-    "forks_count": 62662
+    "forks_count": 62779
   },
   {
     "full_name": "sadanandpai/javascript-code-challenges",
-    "stargazers_count": 3319,
+    "stargazers_count": 3324,
     "open_issues_count": 1,
     "forks_count": 637
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 353522,
-    "open_issues_count": 193,
-    "forks_count": 29513
+    "stargazers_count": 354062,
+    "open_issues_count": 204,
+    "forks_count": 29553
   },
   {
     "full_name": "confluentinc/examples",
-    "stargazers_count": 1564,
-    "open_issues_count": 86,
-    "forks_count": 1012
+    "stargazers_count": 1566,
+    "open_issues_count": 85,
+    "forks_count": 1018
   },
   {
     "full_name": "acefalobi/android-stepper",
-    "stargazers_count": 220,
+    "stargazers_count": 224,
     "open_issues_count": 9,
     "forks_count": 35
   },
   {
     "full_name": "lensesio/schema-registry-ui",
-    "stargazers_count": 396,
+    "stargazers_count": 397,
     "open_issues_count": 37,
     "forks_count": 107
   },
@@ -147,36 +147,36 @@
     "full_name": "wdullaer/MaterialDateTimePicker",
     "stargazers_count": 4647,
     "open_issues_count": 108,
-    "forks_count": 974
+    "forks_count": 973
   },
   {
     "full_name": "ryanmcdermott/clean-code-javascript",
-    "stargazers_count": 72910,
+    "stargazers_count": 72994,
     "open_issues_count": 65,
-    "forks_count": 9852
+    "forks_count": 9867
   },
   {
     "full_name": "lydiahallie/javascript-questions",
-    "stargazers_count": 47988,
-    "open_issues_count": 78,
-    "forks_count": 6765
+    "stargazers_count": 48094,
+    "open_issues_count": 79,
+    "forks_count": 6787
   },
   {
     "full_name": "goldbergyoni/nodebestpractices",
-    "stargazers_count": 81707,
+    "stargazers_count": 81774,
     "open_issues_count": 35,
-    "forks_count": 8465
+    "forks_count": 8471
   },
   {
     "full_name": "huggingface/transformers",
-    "stargazers_count": 70695,
-    "open_issues_count": 534,
-    "forks_count": 16203
+    "stargazers_count": 70965,
+    "open_issues_count": 528,
+    "forks_count": 16248
   },
   {
     "full_name": "TheAlgorithms/Python",
-    "stargazers_count": 145098,
-    "open_issues_count": 257,
-    "forks_count": 36923
+    "stargazers_count": 145385,
+    "open_issues_count": 265,
+    "forks_count": 36973
   }
 ]
