@@ -1,7 +1,7 @@
 [
   {
     "full_name": "reduxjs/redux-templates",
-    "stargazers_count": 1392,
+    "stargazers_count": 1396,
     "open_issues_count": 13,
     "forks_count": 238
   },
@@ -13,9 +13,9 @@
   },
   {
     "full_name": "sudheerj/reactjs-interview-questions",
-    "stargazers_count": 38499,
+    "stargazers_count": 38560,
     "open_issues_count": 9,
-    "forks_count": 9166
+    "forks_count": 9182
   },
   {
     "full_name": "jeebon/cefcom-node-angular",
@@ -25,21 +25,21 @@
   },
   {
     "full_name": "ByteByteGoHq/system-design-101",
-    "stargazers_count": 61691,
+    "stargazers_count": 61774,
     "open_issues_count": 39,
-    "forks_count": 6400
+    "forks_count": 6404
   },
   {
     "full_name": "ripienaar/free-for-dev",
-    "stargazers_count": 86397,
+    "stargazers_count": 86493,
     "open_issues_count": 13,
-    "forks_count": 9384
+    "forks_count": 9398
   },
   {
     "full_name": "sindresorhus/awesome",
-    "stargazers_count": 318990,
-    "open_issues_count": 40,
-    "forks_count": 27509
+    "stargazers_count": 319344,
+    "open_issues_count": 42,
+    "forks_count": 27517
   },
   {
     "full_name": "foyzulkarim/mock-interviews-2023",
@@ -55,21 +55,21 @@
   },
   {
     "full_name": "mtdvio/every-programmer-should-know",
-    "stargazers_count": 81030,
+    "stargazers_count": 81161,
     "open_issues_count": 55,
-    "forks_count": 7624
+    "forks_count": 7634
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 266807,
+    "stargazers_count": 267042,
     "open_issues_count": 442,
-    "forks_count": 45180
+    "forks_count": 45206
   },
   {
     "full_name": "bregman-arie/devops-exercises",
-    "stargazers_count": 65369,
-    "open_issues_count": 32,
-    "forks_count": 14546
+    "stargazers_count": 65399,
+    "open_issues_count": 33,
+    "forks_count": 14559
   },
   {
     "full_name": "simantaturja/Learn-Java-Spring",
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "ikatyang/emoji-cheat-sheet",
-    "stargazers_count": 12194,
+    "stargazers_count": 12201,
     "open_issues_count": 69,
-    "forks_count": 4424
+    "forks_count": 4420
   },
   {
     "full_name": "lahin31/system-design-bangla",
@@ -91,25 +91,25 @@
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 286934,
-    "open_issues_count": 46,
-    "forks_count": 38132
+    "stargazers_count": 287423,
+    "open_issues_count": 40,
+    "forks_count": 38176
   },
   {
     "full_name": "confluentinc/cp-all-in-one",
-    "stargazers_count": 917,
-    "open_issues_count": 36,
+    "stargazers_count": 919,
+    "open_issues_count": 35,
     "forks_count": 677
   },
   {
     "full_name": "prometheus-operator/prometheus-operator",
-    "stargazers_count": 8948,
-    "open_issues_count": 274,
-    "forks_count": 3688
+    "stargazers_count": 8949,
+    "open_issues_count": 273,
+    "forks_count": 3691
   },
   {
     "full_name": "kubeshop/botkube",
-    "stargazers_count": 2100,
+    "stargazers_count": 2101,
     "open_issues_count": 82,
     "forks_count": 289
   },
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "learning-zone/nodejs-basics",
-    "stargazers_count": 3013,
+    "stargazers_count": 3017,
     "open_issues_count": 0,
-    "forks_count": 1012
+    "forks_count": 1014
   },
   {
     "full_name": "Shahriar220/GithubUserFinder",
@@ -157,15 +157,15 @@
   },
   {
     "full_name": "InterviewReady/system-design-resources",
-    "stargazers_count": 15418,
+    "stargazers_count": 15438,
     "open_issues_count": 0,
-    "forks_count": 1888
+    "forks_count": 1890
   },
   {
     "full_name": "digitalocean/nginxconfig.io",
-    "stargazers_count": 27510,
+    "stargazers_count": 27518,
     "open_issues_count": 53,
-    "forks_count": 2021
+    "forks_count": 2020
   },
   {
     "full_name": "me-shaon/bangla-programming-resources",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "ombharatiya/FAANG-Coding-Interview-Questions",
-    "stargazers_count": 2134,
+    "stargazers_count": 2138,
     "open_issues_count": 11,
-    "forks_count": 621
+    "forks_count": 622
   }
 ]
