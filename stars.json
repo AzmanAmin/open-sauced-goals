@@ -1,9 +1,9 @@
 [
   {
     "full_name": "reduxjs/redux-templates",
-    "stargazers_count": 1413,
+    "stargazers_count": 1415,
     "open_issues_count": 14,
-    "forks_count": 243
+    "forks_count": 244
   },
   {
     "full_name": "aulipriya/video-image-converter",
@@ -13,9 +13,9 @@
   },
   {
     "full_name": "sudheerj/reactjs-interview-questions",
-    "stargazers_count": 39122,
+    "stargazers_count": 39175,
     "open_issues_count": 9,
-    "forks_count": 9279
+    "forks_count": 9292
   },
   {
     "full_name": "jeebon/cefcom-node-angular",
@@ -25,21 +25,21 @@
   },
   {
     "full_name": "ByteByteGoHq/system-design-101",
-    "stargazers_count": 63017,
+    "stargazers_count": 63103,
     "open_issues_count": 41,
-    "forks_count": 6565
+    "forks_count": 6578
   },
   {
     "full_name": "ripienaar/free-for-dev",
-    "stargazers_count": 87247,
-    "open_issues_count": 11,
-    "forks_count": 9482
+    "stargazers_count": 88004,
+    "open_issues_count": 14,
+    "forks_count": 9540
   },
   {
     "full_name": "sindresorhus/awesome",
-    "stargazers_count": 324332,
+    "stargazers_count": 325099,
     "open_issues_count": 47,
-    "forks_count": 27654
+    "forks_count": 27691
   },
   {
     "full_name": "foyzulkarim/mock-interviews-2023",
@@ -55,61 +55,61 @@
   },
   {
     "full_name": "mtdvio/every-programmer-should-know",
-    "stargazers_count": 82534,
+    "stargazers_count": 82601,
     "open_issues_count": 54,
-    "forks_count": 7718
+    "forks_count": 7724
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 269703,
-    "open_issues_count": 466,
-    "forks_count": 45554
+    "stargazers_count": 270058,
+    "open_issues_count": 467,
+    "forks_count": 45610
   },
   {
     "full_name": "bregman-arie/devops-exercises",
-    "stargazers_count": 65862,
+    "stargazers_count": 65934,
     "open_issues_count": 30,
-    "forks_count": 14679
+    "forks_count": 14700
   },
   {
     "full_name": "simantaturja/Learn-Java-Spring",
-    "stargazers_count": 128,
+    "stargazers_count": 129,
     "open_issues_count": 2,
-    "forks_count": 76
+    "forks_count": 75
   },
   {
     "full_name": "ikatyang/emoji-cheat-sheet",
-    "stargazers_count": 12299,
-    "open_issues_count": 70,
-    "forks_count": 4428
+    "stargazers_count": 12311,
+    "open_issues_count": 71,
+    "forks_count": 4430
   },
   {
     "full_name": "lahin31/system-design-bangla",
-    "stargazers_count": 785,
+    "stargazers_count": 786,
     "open_issues_count": 0,
     "forks_count": 311
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 291492,
-    "open_issues_count": 54,
-    "forks_count": 38571
+    "stargazers_count": 291813,
+    "open_issues_count": 56,
+    "forks_count": 38605
   },
   {
     "full_name": "confluentinc/cp-all-in-one",
-    "stargazers_count": 931,
+    "stargazers_count": 935,
     "open_issues_count": 34,
     "forks_count": 681
   },
   {
     "full_name": "prometheus-operator/prometheus-operator",
-    "stargazers_count": 9005,
-    "open_issues_count": 256,
+    "stargazers_count": 9014,
+    "open_issues_count": 251,
     "forks_count": 3695
   },
   {
     "full_name": "kubeshop/botkube",
-    "stargazers_count": 2112,
+    "stargazers_count": 2114,
     "open_issues_count": 79,
     "forks_count": 289
   },
@@ -133,7 +133,7 @@
   },
   {
     "full_name": "learning-zone/nodejs-basics",
-    "stargazers_count": 3053,
+    "stargazers_count": 3054,
     "open_issues_count": 5,
     "forks_count": 1017
   },
@@ -157,26 +157,26 @@
   },
   {
     "full_name": "InterviewReady/system-design-resources",
-    "stargazers_count": 15692,
+    "stargazers_count": 15711,
     "open_issues_count": 0,
-    "forks_count": 1928
+    "forks_count": 1931
   },
   {
     "full_name": "digitalocean/nginxconfig.io",
-    "stargazers_count": 27601,
+    "stargazers_count": 27612,
     "open_issues_count": 53,
     "forks_count": 2028
   },
   {
     "full_name": "me-shaon/bangla-programming-resources",
-    "stargazers_count": 1697,
+    "stargazers_count": 1700,
     "open_issues_count": 6,
-    "forks_count": 1414
+    "forks_count": 1415
   },
   {
     "full_name": "ombharatiya/FAANG-Coding-Interview-Questions",
-    "stargazers_count": 2186,
-    "open_issues_count": 12,
-    "forks_count": 631
+    "stargazers_count": 2196,
+    "open_issues_count": 13,
+    "forks_count": 632
   }
 ]
